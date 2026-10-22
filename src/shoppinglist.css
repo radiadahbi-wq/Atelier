@@ -1,0 +1,23 @@
+.shopping-list {
+    padding: 20px;
+    }
+    
+    .plant-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    list-style: none;
+    padding: 0;
+    }
+    
+    .plant-card {
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    }
+    
+    .lmj-sales {
+    color: red;
+    font-weight: bold;
+    margin-top: 10px;
+    }
